@@ -1,2 +1,4 @@
-this is the third file I am creating 
+this is the third file I am creating
+afd
+3rd line in 3.txt 
 
